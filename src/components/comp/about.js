@@ -15,13 +15,11 @@ function About() {
                     </div>
                 </div>
             </div>
-            <p> DIT 5404 - Final Assignment: Movie Listing Website</p>
+            <p> My first MERN Project - ViewIT Movie Listing Website </p>
             <p> 
-                <span id="about_1">View It</span> is develop by: <br></br>
-                Student: Chan Wai Pong James<br></br>
-                Student ID: 180609303
+                <span id="about_1">View It</span> is develop by: James Chan<br></br>
+                Github link: <a class="btn btn-light" href="https://github.com/JaMes-pong/viewITMovieWebsite" target="_blank" rel="noreferrer">Github</a>
             </p>
-            <p> Youtube Link: <a class="btn btn-light" href="https://youtu.be/wmWZsc9J9yU" target="_blank">Go</a></p> 
             <p>
                 <button class="btn btn-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
                     Login Username and Password

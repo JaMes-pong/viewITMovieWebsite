@@ -15,7 +15,7 @@ function Footer() {
                 <li class="list-inline-item"><a href="#">Terms</a></li>
                 <li class="list-inline-item"><a href="#">Privacy Policy</a></li>
             </ul>
-            <p class="copyright">View IT © 2022</p>
+            <p class="copyright">View IT © 2022 <br></br> Developed by: James </p>
         </footer>
     </div>
     );
